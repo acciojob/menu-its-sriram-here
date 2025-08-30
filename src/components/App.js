@@ -47,5 +47,5 @@ const App = () => {
     )
 
 }
-
+//this is the app.js
 export default App;
